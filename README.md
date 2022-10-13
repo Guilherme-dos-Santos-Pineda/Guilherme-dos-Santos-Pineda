@@ -17,7 +17,6 @@
    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/700448391909605531/1028074935349948417/Gui.jpeg">
    
    
-  
 </div>
 
 ##
